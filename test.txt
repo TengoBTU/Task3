@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 
+=======
+This is task 3
+<Code from developer #1>
+>>>>>>> 500045e (add code from Developer 1 in test.txt)
